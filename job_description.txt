@@ -1,0 +1,31 @@
+Senior Backend Engineer — Payments Platform
+
+About the Role:
+We're hiring a Senior Backend Engineer to join our Payments Platform team. You'll design and
+build high-throughput, low-latency services that process financial transactions at scale, and
+you'll be a technical anchor for a small, fast-moving team.
+
+What you'll do:
+- Design and own backend services handling payment processing, reconciliation, and ledger systems
+- Build for reliability: our systems need to be correct under failure, not just fast on the happy path
+- Mentor 1-2 mid-level engineers and raise the team's engineering bar through code review and design docs
+- Partner closely with product and risk teams to translate ambiguous requirements into robust systems
+- Debug production incidents under pressure and drive postmortems that prevent recurrence
+
+What we're looking for:
+- 5+ years of backend engineering experience, ideally with distributed systems or financial/payments systems
+- Strong CS fundamentals: system design, data structures, concurrency, database internals
+- Hands-on experience with at least one of: Python, Java, or Go, plus SQL and a messaging system (Kafka or similar)
+- Experience operating services in production on AWS or GCP, comfort with Docker/Kubernetes
+- A track record of mentoring or technical leadership — we want someone who can grow with the team, not just write code in isolation
+- Evidence of intellectual curiosity: open-source contributions, technical writing, or a history of going deep on hard problems
+- Comfortable with ambiguity and able to push back constructively on requirements that don't make sense
+
+Nice to have:
+- Experience in fintech, payments, or other domains with strict correctness/compliance requirements
+- Familiarity with ML-driven fraud detection or risk scoring systems
+- Startup experience where you owned a system end-to-end with limited oversight
+
+We care less about pedigree and more about whether you've actually built and operated systems
+that mattered. A candidate who shipped something real at a small startup is just as compelling to
+us as one from a brand-name company — we're looking for substance over keywords.
