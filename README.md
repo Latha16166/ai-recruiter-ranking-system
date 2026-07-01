@@ -163,3 +163,7 @@ Author
 Developed for the AI Recruiter Ranking Hackathon.
 
 Powered by Google Gemini AI.
+
+
+Demo Video:
+https://drive.google.com/file/d/1nPU8sXbwPydV8EXxxuMVkjR4HbUXHVZ6/view?usp=sharing
